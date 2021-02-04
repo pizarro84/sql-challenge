@@ -31,5 +31,5 @@ Image below shows the schema for this exercise:
 ## Epiloge
 
 Apparently this was a very informative April Fool's Joke:
-![aprilfools](images/employees_schema_image.png)
+![aprilfools](images/epilogue.png)
 
