@@ -22,7 +22,7 @@ Image below shows the schema for this exercise:
 ## Instructions
 
 1. Run pgadmin4 and create a new database named "employees"
-2. Open /EmployeeSQL/employee_schema.sql in pgadmin4 and change line 26 to the "CSV_Data" path where the repository for this challenge is copied (do not add a backslash at the end of the path string)
+2. Open /EmployeeSQL/employee_schema.sql in pgadmin4 and change line 26 to the "CSV_Data" path where the repository for this challenge is copied (do not add a slash at the end of the path string)
 3. Run all the codes in the "employee_schema.sql" file
 4. Open the "/EmployeeSQL/employee_sql.sql" file and run each SQL queries individually to display the responses for aech challenge.
 5. Open "/EmployeeSQL/db_credentials.py" and update "user" and "password" with your Postgres username and password. (default password is "postgres")
@@ -30,6 +30,6 @@ Image below shows the schema for this exercise:
 
 ## Epiloge
 
-Apparently this was a very informative April Fool's Joke:
+Apparently this was a very informative April Fool's prank:
 ![aprilfools](images/epilogue.png)
 
